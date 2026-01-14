@@ -1,0 +1,20 @@
+
+# Common exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Model weights (optional, but sometimes good to include if < 100MB, excluded if larger)
+# *.h5
+# *.keras

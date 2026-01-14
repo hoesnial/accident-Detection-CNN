@@ -1,0 +1,46 @@
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+ERROR:root:Open image error: 'NoneType' object has no attribute 'read'
+ERROR:root:Open image error: 'NoneType' object has no attribute 'read'
+ERROR:root:Open image error: 'NoneType' object has no attribute 'read'
+WARNING:tensorflow:From c:\Users\husni\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:tensorflow:From c:\Users\husni\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+WARNING:tensorflow:From c:\Users\husni\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:User uploaded an image. Prediction: Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+INFO:root:User uploaded an image. Prediction: No Accident, Confidence: 1.00
+ERROR:root:Error loading image: The layer sequential_2 has never been called and thus has no defined output.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
